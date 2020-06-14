@@ -1,0 +1,190 @@
+                            * {
+                                box-sizing: boder-box;
+                                margin: 0;
+                                padding: 0;
+                            }
+                            
+                            .promo {
+                                height: 800px;
+                                background: url(../img/background/first_bg.png) center center / cover no-repeat;
+                                padding: 39px 0px 62px 0px;
+                            }
+                            
+                            .container {
+                                width: 1140px;
+                                margin: 0 auto;
+                            }
+                            
+                            .logo .logo_img {
+                                display: block;
+                                margin: 0 auto;
+                            }
+                            
+                            h1 {
+                                margin-top: 53px;
+                            }
+                            
+                            .logo .logo_text {
+                                font-family: Roboto;
+                                font-size: 15px;
+                                font-weight: 500;
+                                line-height: 24px;
+                                text-align: center;
+                                color: #ffffff;
+                            }
+                            
+                            .title {
+                                font-family: Roboto;
+                                font-size: 41px;
+                                font-weight: 900;
+                                line-height: 24px;
+                                text-align: center;
+                                color: #f9bf3b;
+                                text-transform: uppercase;
+                            }
+                            
+                            h2.title {
+                                margin-top: 30px;
+                            }
+                            
+                            .simple .title_big {
+                                font-family: Roboto;
+                                font-size: 80px;
+                                font-weight: 900;
+                                text-align: center;
+                                color: #ffffff;
+                                text-transform: uppercase;
+                                margin-top: 21px;
+                            }
+                            
+                            .promo .promo_text {
+                                padding: 0px 13px;
+                                margin-top: 23px;
+                                font-family: Roboto light;
+                                font-size: 21px;
+                                font-weight: 300;
+                                line-height: 28px;
+                                text-align: center;
+                                color: #ffffff;
+                            }
+                            
+                            .promo .promo_text span {
+                                font-weight: bold;
+                                color: #f9bf3b;
+                            }
+                            
+                            .promo .promo_btn {
+                                display: block;
+                                margin: 73px auto;
+                                width: 313px;
+                                height: 72px;
+                                box-shadow: inset 0px 0px 0 0 rgba(0, 0, 0, 0.18);
+                                border: solid 4px rgba(0, 0, 0, 0.23);
+                                background-image: linear-gradient(to top, #2798b9, #3ab6da);
+                                text-shadow: -0.7px -0.7px 0 rgba(0, 0, 0, 0.22);
+                                font-family: Roboto;
+                                font-size: 21px;
+                                font-stretch: condensed;
+                                line-height: 24px;
+                                text-align: center;
+                                color: #ffffff;
+                                cursor: pointer;
+                                outline: none;
+                            }
+                            
+                            .more {
+                                margin-top: 73px;
+                            }
+                            
+                            .more .more_text {
+                                font-family: Roboto;
+                                font-size: 15px;
+                                font-weight: 100;
+                                line-height: 24px;
+                                text-align: center;
+                                color: #ffffff;
+                            }
+                            
+                            .more .more_img {
+                                display: block;
+                                margin: 13px auto;
+                            }
+                            
+                            .container {
+                                min-height: 550px;
+                                padding: 85px 0 75px 0;
+                                position: relative;
+                            }
+                            
+                            .waiting {
+                                background-color: #efefef;
+                                padding: 85px 0 75px 0;
+                            }
+                            
+                            .waiting .waiting_header {
+                                font-family: Roboto;
+                                font-size: 30px;
+                                text-align: center;
+                                color: #252525;
+                                cursor: pointer;
+                                outline: none;
+                            }
+                            
+                            .waiting .waiting_divider {
+                                width: 217px;
+                                height: 4px;
+                                background-color: #f9bf3b;
+                                margin: 0 auto;
+                                margin-top: 18px;
+                            }
+                            
+                            .waiting .waiting_subheader {
+                                font-family: Roboto;
+                                font-size: 23px;
+                                text-align: center;
+                                color: #4a4a4a;
+                                margin: 0 auto;
+                                margin-top: 17px;
+                            }
+                            
+                            .waiting .waiting_wrapper {
+                                display: flex;
+                                justify-content: space-between;
+                            }
+                            
+                            .waiting .waiting_wrapper .waiting_item {
+                                margin: 0 15px;
+                                width: 339px;
+                                text-align: center;
+                            }
+                            
+                            .waiting .waiting_wrapper .waiting_item .waiting_img {
+                                width: 100%;
+                                cursor: pointer;
+                                outline: none;
+                            }
+                            
+                            .waiting .waiting_wrapper .waiting_item .waiting_descr {
+                                font-family: Roboto;
+                                font-size: 15px;
+                                font-weight: 300;
+                                line-height: 21px;
+                                text-align: center;
+                                color: #4a4a4a;
+                            }
+                            /*     .my-flex-container {
+                                display: flex;
+                                flex-wrap: wrap;
+                                align-items: center;
+                                justify-content: space-around;
+                                height: 450px;
+                            }
+                            
+                            .my-flex-box {
+                                width: 150px;
+                                height: 150px;
+                                margin: 0 50px;
+                                background-color: red;
+                                text-align: center;
+                                color: #fff;
+                            } */
